@@ -11,20 +11,21 @@
   "repository": "https://github.com/qor/qor-example",
   "license": "ISC",
   "devDependencies": {
-    "gulp": "^3.9.1",
+    "gulp": "^5.0.0",
     "gulp-babel": "^8.0.0",
     "gulp-clean-css": "^4.3.0",
-    "gulp-concat": "^2.6.0",
+    "gulp-concat": "^2.6.1",
     "gulp-csscomb": "^3.1.0",
     "gulp-load-plugins": "^2.0.8",
-    "gulp-sass": "3.2.1",
+    "gulp-sass": "6.0.1",
     "gulp-uglify": "^3.0.2",
     "material-design-icons": "^3.0.1",
-    "webpack": "^5.99.8"
+    "webpack": "^5.99.9"
   },
   "dependencies": {
-    "@babel/core": "^7.27.1",
+    "@babel/core": "^7.27.3",
     "@babel/preset-env": "^7.27.2",
-    "babel-loader": "^8.3.0"
-  }
+    "babel-loader": "^10.0.0"
+  },
+  "packageManager": "yarn@1.22.22+sha512.a6b2f7906b721bba3d67d4aff083df04dad64c399707841b7acf00f6b133b7ac24255f2652fa22ae3534329dc6180534e98d17432037ff6fd140556e2bb3137e"
 }
