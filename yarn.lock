@@ -2340,9 +2340,9 @@ node-releases@^2.0.19:
   resolved "https://registry.yarnpkg.com/node-releases/-/node-releases-2.0.19.tgz#9e445a52950951ec4d177d843af370b411caf314"
   integrity sha512-xxOWJsBKtzAq7DY0J+DTzuz58K8e7sJbdgwkbMWQe8UYB6ekmsQ45q0M/tJDsGaZmbC+l7n57UV8Hl5tHxO9uw==
 
-node-uuid@1.4.0:
-  version "1.4.0"
-  resolved "https://registry.yarnpkg.com/node-uuid/-/node-uuid-1.4.0.tgz#07f9b2337572ff6275c775e1d48513f3a45d7a65"
+node-uuid@1.4.4:
+  version "1.4.4"
+  resolved "https://registry.yarnpkg.com/node-uuid/-/node-uuid-1.4.4.tgz#07f9b2337572ff6275c775e1d48513f3a45d7a65"
 
 normalize-path@3.0.0, normalize-path@^3.0.0, normalize-path@~3.0.0:
   version "3.0.0"
@@ -3020,7 +3020,7 @@ vow-fs@0.3.2:
   resolved "https://registry.yarnpkg.com/vow-fs/-/vow-fs-0.3.2.tgz#ea2b034d85e1db8c277eb2e9a86d1c15f5d38e7a"
   dependencies:
     glob "3.2.8"
-    node-uuid "1.4.0"
+    node-uuid "1.4.4"
     vow "0.4.4"
     vow-queue "0.3.1"
 
